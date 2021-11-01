@@ -10,6 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hey tejal");
             Console.WriteLine("hii tej");
             Console.WriteLine("from vs");
+            Console.WriteLine("from git"):
             Console.ReadLine();
         }
     }

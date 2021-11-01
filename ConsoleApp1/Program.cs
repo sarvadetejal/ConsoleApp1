@@ -11,7 +11,7 @@ namespace ConsoleApp1
             Console.WriteLine("hii tej");
             Console.WriteLine("from vs");
             Console.WriteLine("from VS2");
-            Console.WriteLine("from git"):
+            Console.WriteLine("from git");
             Console.ReadLine();
         }
     }

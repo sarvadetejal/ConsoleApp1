@@ -7,10 +7,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.Writeline("hii");
-            Console.ReadLine();
+            Console.WriteLine("hii");
             Console.WriteLine("from vs");
-
+            Console.ReadLine();
         }
     }
 }
